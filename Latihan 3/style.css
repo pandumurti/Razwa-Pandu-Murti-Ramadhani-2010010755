@@ -1,0 +1,40 @@
+h1{
+    color: orange;
+    font-family: "Segeo UI";
+}
+.kotak{
+    padding:50px;
+    width:100px;
+    height:50px;
+    margin:10px;
+    color:#fff;
+    background:#0288d1;
+    float:left;
+}
+.ungu {
+    padding:50px;
+    width:100px;
+    height:50px;
+    margin:10px;
+    color:#fff;
+    background:plum;
+    float:left;
+}
+.pink {
+    padding:50px;
+    width:100px;
+    height:50px;
+    margin:10px;
+    color:black;
+    background:lightpink;
+    float:left;
+}
+.kuning {
+    padding:50px;
+    width:100px;
+    height:50px;
+    margin:10px;
+    color:#fff;
+    background:darkorange;
+    float:left;
+}
